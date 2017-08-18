@@ -1,3 +1,3 @@
 # Hello
 Test project
-https://travis-ci.org/shnitzelbe/Hello.svg?branch=master
+[![Build Status](https://travis-ci.org/shnitzelbe/Hello.svg?branch=master)](https://travis-ci.org/shnitzelbe/Hello)
